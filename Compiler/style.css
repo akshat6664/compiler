@@ -1,0 +1,32 @@
+body {
+    font-family: Arial;
+    text-align: center;
+    background: #f4f4f4;
+}
+
+h1 {
+    color: #333;
+}
+
+.container {
+    display: grid;
+    justify-content: center;
+    gap: 20px;
+}
+
+textarea {
+    width: 400px;
+    height: 300px;
+    padding: 10px;
+    font-size: 14px;
+}
+
+button {
+    margin-top: 20px;
+    padding: 10px 20px;
+    font-size: 16px;
+    background: #007BFF;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
